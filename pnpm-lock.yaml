@@ -1240,7 +1240,7 @@ importers:
         version: 0.20.0(encoding@0.1.13)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
     devDependencies:
       '@babel/core':
-        specifier: ^7.24.9
+        specifier: ^7.25.2
         version: 7.27.1
       '@expo/config':
         specifier: ^11.0.13
