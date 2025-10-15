@@ -1013,6 +1013,7 @@ export const ContentView: Component<ContentViewProps> = (props) => {
                   'tsqd-actions-btn',
                   'tsqd-action-settings',
                 )}
+                aria-label="Open settings menu"
               >
                 <Settings />
               </DropdownMenu.Trigger>
